@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1nstinctlmao
-- 👀 I’m interested in Python ofc
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Python,JavaScript,C+
+- 🌱 I’m currently learning Javascript, I currently know Python and some C+
 - 📫 DM For Collabs
 
 <!---
